@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=MiCTS_Assistant
+name=MiCTS Assistant Default
+version=1.0
 versionCode=1
 author=topjohnwu
-description=A short description
-template=3
+description=MiCTS Assistant Permission 
+minMagisk=24
